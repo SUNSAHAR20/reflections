@@ -1,0 +1,4 @@
+
+
+What happens when you initialize a repository? Why do you need to do it?
+an empty folder named .git is created. this migt be required to hold the versions of our files which are currently being commited.
